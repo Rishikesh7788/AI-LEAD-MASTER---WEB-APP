@@ -123,11 +123,11 @@ export default {
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/yourusername/edulead-pro-ai.git"
+    "url": "https://github.com/Rishikesh7788/edulead-pro-ai.git"
   },
   "bugs": {
-    "url": "https://github.com/yourusername/edulead-pro-ai/issues"
+    "url": "https://github.com/Rishikesh7788/edulead-pro-ai/issues"
   },
-  "homepage": "https://github.com/yourusername/edulead-pro-ai#readme"
+  "homepage": "https://Rishikesh7788/edulead-pro-ai#readme"
 }
 ```
