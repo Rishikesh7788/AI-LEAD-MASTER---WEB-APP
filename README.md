@@ -34,10 +34,10 @@ A complete full-stack AI-powered lead generation web application for the educati
 - Zod - Schema validation
 
 ### AI/ML
--TensorFlow.js** - Neural network for lead scoring
--Custom AI Model** - Trained on education sector patterns
+-TensorFlow.js - Neural network for lead scoring
+-Custom AI Model - Trained on education sector patterns
 
 #Database
 -Drizzle ORM - Type-safe database queries
--In-Memory Storage** - Development-ready storage layer
--PostgreSQL Ready** - Production database support
+-In-Memory Storage - Development-ready storage layer
+-PostgreSQL Ready - Production database support
