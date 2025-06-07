@@ -38,6 +38,6 @@ A complete full-stack AI-powered lead generation web application for the educati
 -Custom AI Model** - Trained on education sector patterns
 
 #Database
--Drizzle ORM** - Type-safe database queries
+-Drizzle ORM - Type-safe database queries
 -In-Memory Storage** - Development-ready storage layer
 -PostgreSQL Ready** - Production database support
