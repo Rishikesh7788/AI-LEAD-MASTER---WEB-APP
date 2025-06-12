@@ -41,3 +41,25 @@ A complete full-stack AI-powered lead generation web application for the educati
 -Drizzle ORM - Type-safe database queries
 -In-Memory Storage - Development-ready storage layer
 -PostgreSQL Ready - Production database support
+
+edulead-pro
+├── client/ # Frontend React application
+│ ├── src/
+│ │ ├── components/ # Reusable UI components
+│ │ ├── hooks/ # Custom React hooks
+│ │ ├── lib/ # Utility libraries and AI model
+│ │ ├── pages/ # Application pages
+│ │ └── App.tsx # Main application component
+│ └── index.html # HTML entry point
+├── server/ # Backend Node.js application
+│ ├── index.ts # Server entry point
+│ ├── routes.ts # API routes and endpoints
+│ ├── storage.ts # Data storage layer
+│ └── vite.ts # Development server setup
+├── shared/ # Shared TypeScript schemas
+│ └── schema.ts # Database and validation schemas
+├── package.json # Dependencies and scripts
+├── tsconfig.json # TypeScript configuration
+├── vite.config.ts # Vite build configuration
+├── tailwind.config.ts # Tailwind CSS configuration
+└── postcss.config.js # PostCSS configuration
